@@ -1,2 +1,2 @@
 # gpt-classification-asks
-Jupyter Notebooks with simplified code for comparing fine-tuned and single shot classification using GPT3, GPT3.5 and GPT4
+Jupyter Notebooks for comparing fine-tuned and one-shot classification using GPT3, GPT3.5 and GPT4, with three approaches
